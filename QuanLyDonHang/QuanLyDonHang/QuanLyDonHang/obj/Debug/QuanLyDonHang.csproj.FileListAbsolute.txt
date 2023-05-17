@@ -1,0 +1,17 @@
+C:\Users\pc\OneDrive\Tài liệu\TỔNG HỢP NỘP BÀI TẬP\QuanLyDonHang\QuanLyDonHang\QuanLyDonHang\bin\Debug\QuanLyDonHang.exe.config
+C:\Users\pc\OneDrive\Tài liệu\TỔNG HỢP NỘP BÀI TẬP\QuanLyDonHang\QuanLyDonHang\QuanLyDonHang\bin\Debug\QuanLyDonHang.exe
+C:\Users\pc\OneDrive\Tài liệu\TỔNG HỢP NỘP BÀI TẬP\QuanLyDonHang\QuanLyDonHang\QuanLyDonHang\bin\Debug\QuanLyDonHang.pdb
+C:\Users\pc\OneDrive\Tài liệu\TỔNG HỢP NỘP BÀI TẬP\QuanLyDonHang\QuanLyDonHang\QuanLyDonHang\obj\Debug\QuanLyDonHang.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Tài liệu\TỔNG HỢP NỘP BÀI TẬP\QuanLyDonHang\QuanLyDonHang\QuanLyDonHang\obj\Debug\QuanLyDonHang.frmMain.resources
+C:\Users\pc\OneDrive\Tài liệu\TỔNG HỢP NỘP BÀI TẬP\QuanLyDonHang\QuanLyDonHang\QuanLyDonHang\obj\Debug\QuanLyDonHang.Properties.Resources.resources
+C:\Users\pc\OneDrive\Tài liệu\TỔNG HỢP NỘP BÀI TẬP\QuanLyDonHang\QuanLyDonHang\QuanLyDonHang\obj\Debug\QuanLyDonHang.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Tài liệu\TỔNG HỢP NỘP BÀI TẬP\QuanLyDonHang\QuanLyDonHang\QuanLyDonHang\obj\Debug\QuanLyDonHang.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Tài liệu\TỔNG HỢP NỘP BÀI TẬP\QuanLyDonHang\QuanLyDonHang\QuanLyDonHang\obj\Debug\QuanLyDonHang.exe
+C:\Users\pc\OneDrive\Tài liệu\TỔNG HỢP NỘP BÀI TẬP\QuanLyDonHang\QuanLyDonHang\QuanLyDonHang\obj\Debug\QuanLyDonHang.pdb
+C:\Users\pc\OneDrive\Tài liệu\TỔNG HỢP NỘP BÀI TẬP\QuanLyDonHang\QuanLyDonHang\QuanLyDonHang\obj\Debug\QuanLyDonHang.frmDMChatLieu.resources
+C:\Users\pc\OneDrive\Tài liệu\TỔNG HỢP NỘP BÀI TẬP\QuanLyDonHang\QuanLyDonHang\QuanLyDonHang\obj\Debug\QuanLyDonHang.frmDMHang.resources
+C:\Users\pc\OneDrive\Tài liệu\TỔNG HỢP NỘP BÀI TẬP\QuanLyDonHang\QuanLyDonHang\QuanLyDonHang\bin\Debug\Quanlybanhang.mdf
+C:\Users\pc\OneDrive\Tài liệu\TỔNG HỢP NỘP BÀI TẬP\QuanLyDonHang\QuanLyDonHang\QuanLyDonHang\bin\Debug\Quanlybanhang_log.ldf
+C:\Users\pc\OneDrive\Tài liệu\TỔNG HỢP NỘP BÀI TẬP\QuanLyDonHang\QuanLyDonHang\QuanLyDonHang\obj\Debug\QuanLyDonHang.frmTimHDBan.resources
+C:\Users\pc\OneDrive\Tài liệu\TỔNG HỢP NỘP BÀI TẬP\QuanLyDonHang\QuanLyDonHang\QuanLyDonHang\obj\Debug\QuanLyDonHang.csproj.ResolveComReference.cache
+C:\Users\pc\OneDrive\Tài liệu\TỔNG HỢP NỘP BÀI TẬP\QuanLyDonHang\QuanLyDonHang\QuanLyDonHang\obj\Debug\QuanLyDonHang.frmHoaDonBan.resources
